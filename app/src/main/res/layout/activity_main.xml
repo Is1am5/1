@@ -14,7 +14,7 @@
         android:id="@+id/counterTV"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"/>
+        android:text="CounterMVP"/>
     <Button
         android:id="@+id/incrementBtn"
         android:layout_width="match_parent"
